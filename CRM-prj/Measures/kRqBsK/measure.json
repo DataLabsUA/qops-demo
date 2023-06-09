@@ -1,0 +1,30 @@
+{
+  "Id": "kRqBsK",
+  "Properties": {
+    "qInfo": {
+      "qId": "kRqBsK",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum ({<[Opportunity Won/Lost]={'WON'} >}[Opportunity Amount] * $(='ExRate_USD'))/1000000",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Opportunity Amount - Won (in Millions)",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Won Opportunity Amount (USD)",
+      "tags": [
+        "Amount",
+        "Opps",
+        "USD"
+      ],
+      "title": "Opportunity Amount - Won (in Millions)"
+    }
+  }
+}

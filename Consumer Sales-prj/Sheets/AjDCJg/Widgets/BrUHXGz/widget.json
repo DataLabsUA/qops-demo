@@ -1,0 +1,80 @@
+{
+  "Children": [
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "eZGUHP",
+      "Properties": {
+        "footnote": "",
+        "qInfo": {
+          "qId": "eZGUHP",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "qDef": {
+            "autoSort": false,
+            "cId": "TQBKqcm",
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {
+                  "qv": "=sum([Sales Amount])"
+                },
+                "qSortByAscii": 1,
+                "qSortByExpression": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ],
+            "title": "Sales Rep"
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qLibraryId": "UukqE",
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true
+        },
+        "qMetaDef": {},
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Sales Rep",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Sales Rep",
+      "Type": "listbox",
+      "Width": 0
+    }
+  ],
+  "Column": 0,
+  "Height": 7,
+  "Id": "BrUHXGz",
+  "Properties": {
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "qInfo": {
+      "qId": "BrUHXGz",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 0,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 3
+}

@@ -1,0 +1,362 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "e48b35b1-55be-46bf-8ee4-d276c5da3653",
+  "Properties": {
+    "barGrouping": {
+      "grouping": "grouped"
+    },
+    "color": {
+      "auto": false,
+      "autoMinMax": true,
+      "dimensionScheme": "12",
+      "expressionIsColor": false,
+      "expressionLabel": "",
+      "measureMax": 10,
+      "measureMin": 0,
+      "measureScheme": "dg",
+      "mode": "byMultiple",
+      "persistent": true,
+      "reverseScheme": false,
+      "singleColor": 3
+    },
+    "dataPoint": {
+      "show": true,
+      "showLabels": true
+    },
+    "dimensionAxis": {
+      "dock": "near",
+      "label": "auto",
+      "show": "labels"
+    },
+    "footnote": "",
+    "legend": {
+      "dock": "top",
+      "show": true,
+      "showTitle": false
+    },
+    "measureAxes": [
+      {
+        "autoMinMax": true,
+        "dock": "near",
+        "label": "horizontal",
+        "logarithmic": false,
+        "max": 10,
+        "min": 0,
+        "minMax": "min",
+        "show": "none",
+        "spacing": 1
+      },
+      {
+        "autoMinMax": true,
+        "dock": "far",
+        "max": 10,
+        "min": 0,
+        "minMax": "min",
+        "show": "all",
+        "spacing": 1
+      }
+    ],
+    "measureAxis": {
+      "max": 10,
+      "min": 0
+    },
+    "nullMode": "gap",
+    "orientation": "vertical",
+    "qHyperCubeDef": {
+      "customErrorMessage": {
+        "calcCond": ""
+      },
+      "qAlwaysFullyExpanded": true,
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "othersLabel": "Others",
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": false,
+            "cId": "pHnaGj",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Opportunity Close Month/Year"
+            ],
+            "qFieldLabels": [
+              ""
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1
+              }
+            ]
+          },
+          "qNullSuppression": true,
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {},
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_LE_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qSuppressOther": true,
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 500,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 17
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0,
+        1,
+        2
+      ],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [
+            {
+              "othersLabel": "Others",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "autoSort": true,
+                "cId": "mfJPVk",
+                "othersLabel": "Others",
+                "qActiveField": 0,
+                "qFieldDefs": [],
+                "qFieldLabels": [],
+                "qGrouping": "N",
+                "qNumberPresentations": [],
+                "qSortCriterias": [
+                  {
+                    "qExpression": {},
+                    "qSortByLoadOrder": 1,
+                    "qSortByNumeric": 1
+                  }
+                ]
+              },
+              "qLibraryId": "KSQYYT",
+              "qOtherLabel": {},
+              "qOtherTotalSpec": {
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qForceBadValueKeeping": true,
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qOtherMode": "OTHER_OFF",
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qReferencedExpression": {},
+                "qTotalMode": "TOTAL_OFF"
+              },
+              "qTotalLabel": {},
+              "title": "Year Quarter"
+            }
+          ],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [
+            0,
+            2,
+            1
+          ],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [
+            {
+              "id": "colorByExpression"
+            }
+          ],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "ptdLYP",
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qnDec": 10,
+              "qType": "U",
+              "qUseThou": 0
+            },
+            "qTags": [],
+            "series": {
+              "axis": 0,
+              "marker": "circle",
+              "markerFill": true,
+              "type": "bar"
+            }
+          },
+          "qLibraryId": "QPPpG",
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        },
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "bEWU",
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qDec": ".",
+              "qFmt": "$#,##0.00M",
+              "qnDec": 2,
+              "qThou": ",",
+              "qType": "R",
+              "qUseThou": 0
+            },
+            "qTags": [],
+            "series": {
+              "axis": 0,
+              "marker": "circle",
+              "markerFill": true,
+              "type": "line"
+            }
+          },
+          "qLibraryId": "kRqBsK",
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": 10000,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "e48b35b1-55be-46bf-8ee4-d276c5da3653",
+      "qType": "combochart"
+    },
+    "qLayoutExclude": {},
+    "qMetaDef": {
+      "description": "Won opportunities Amount by month and quarter",
+      "tags": [],
+      "title": "Closed Won Opps / Month"
+    },
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Closed Won Opps / Month vs Quota",
+    "visualization": "combochart"
+  },
+  "Row": 6,
+  "Title": "Closed Won Opps / Month vs Quota",
+  "Type": "combochart",
+  "Width": 24
+}

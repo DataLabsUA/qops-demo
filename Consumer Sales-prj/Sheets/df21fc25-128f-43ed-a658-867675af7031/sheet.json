@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "df21fc25-128f-43ed-a658-867675af7031",
+    "Title": "Sales & Budget"
+  },
+  "SheetProperties": {
+    "Id": "df21fc25-128f-43ed-a658-867675af7031",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "df21fc25-128f-43ed-a658-867675af7031",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Sales & Budget"
+      },
+      "rank": 2,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/CGS_Sales_and_Budget.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

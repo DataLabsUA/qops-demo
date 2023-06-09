@@ -1,0 +1,119 @@
+{
+  "Children": [
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "gPQJVgu",
+      "Properties": {
+        "qInfo": {
+          "qId": "gPQJVgu",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "qDef": {
+            "autoSort": true,
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qLibraryId": "c60b2127-67a7-484a-91d9-fc5913231810",
+          "qShowAlternatives": true
+        },
+        "qMetaDef": {},
+        "title": "Sales Rep",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Sales Rep",
+      "Type": "listbox",
+      "Width": 0
+    },
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "qgpmKHS",
+      "Properties": {
+        "footnote": "",
+        "qInfo": {
+          "qId": "qgpmKHS",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "qDef": {
+            "autoSort": true,
+            "cId": "zbJvMzT",
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qLibraryId": "rFZSpm",
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true
+        },
+        "qMetaDef": {},
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Year",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Year",
+      "Type": "listbox",
+      "Width": 0
+    }
+  ],
+  "Column": 0,
+  "Height": 1,
+  "Id": "GqzgV",
+  "Properties": {
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "qInfo": {
+      "qId": "GqzgV",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 0,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 10
+}

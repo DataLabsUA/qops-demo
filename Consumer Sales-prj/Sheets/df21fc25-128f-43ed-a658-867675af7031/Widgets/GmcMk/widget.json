@@ -1,0 +1,216 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "GmcMk",
+  "Properties": {
+    "color": {
+      "auto": false,
+      "colorExpression": "Sum([Budget Amount])",
+      "dimensionScheme": "12",
+      "expressionIsColor": false,
+      "expressionLabel": "Budget $",
+      "measureScheme": "sg",
+      "mode": "byExpression",
+      "paletteColor": {
+        "color": "#4477aa",
+        "index": -1
+      },
+      "persistent": false,
+      "reverseScheme": false,
+      "singleColor": "#4477aa",
+      "useDimColVal": false,
+      "useMeasureGradient": false
+    },
+    "dataPoint": {
+      "auto": false,
+      "labelMode": "share"
+    },
+    "dimensionTitle": false,
+    "donut": {
+      "showAsDonut": true
+    },
+    "footnote": "",
+    "legend": {
+      "dock": "auto",
+      "show": false,
+      "showTitle": true
+    },
+    "qHyperCubeDef": {
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "ffxcmMF",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1
+              }
+            ],
+            "title": "State"
+          },
+          "qLibraryId": "JMtyDzJ",
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 500,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 10
+        }
+      ],
+      "qInterColumnSortOrder": [
+        1,
+        0
+      ],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [
+            {
+              "id": "colorByExpression",
+              "label": "Budget $",
+              "qAttribute": true,
+              "qExpression": "Sum([Budget Amount])",
+              "qNumFormat": {
+                "qnDec": 10,
+                "qType": "U",
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "zvZtjzP",
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qDec": ".",
+              "qnDec": 10,
+              "qType": "U",
+              "qUseThou": 0
+            },
+            "qTags": []
+          },
+          "qLibraryId": "epqAX",
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qSuppressZero": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "GmcMk",
+      "qType": "piechart"
+    },
+    "qMetaDef": {},
+    "showTitles": true,
+    "subtitle": "Coloured by Budget",
+    "title": "Sales by State",
+    "visualization": "piechart"
+  },
+  "Row": 0,
+  "Title": "Sales by State",
+  "Type": "piechart",
+  "Width": 7
+}

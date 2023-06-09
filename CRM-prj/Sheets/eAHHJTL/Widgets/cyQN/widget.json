@@ -1,0 +1,18 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "cyQN",
+  "Properties": {
+    "qExtendsId": "AMKm",
+    "qInfo": {
+      "qId": "cyQN",
+      "qType": "linechart"
+    },
+    "qMetaDef": {}
+  },
+  "Row": 0,
+  "Title": "Closed Won Opps / Month",
+  "Type": "linechart",
+  "Width": 24
+}

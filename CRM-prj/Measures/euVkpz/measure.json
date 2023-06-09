@@ -1,0 +1,29 @@
+{
+  "Id": "euVkpz",
+  "Properties": {
+    "qInfo": {
+      "qId": "euVkpz",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum({<[Opportunity Won/Lost] = {'WON'}>} Opportunity_Count)\t/Sum({<[Opportunity Is Closed?]={'true'}>} Opportunity_Count)",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Win Rate",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Number of Won opps vs Total number Closed opps",
+      "tags": [
+        "Opps",
+        "Won"
+      ],
+      "title": "Win Rate"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "View how sales reps are performing.",
+    "Id": "43da63c7-ff4d-4a12-a474-a60f3a45e5a0",
+    "Title": "Quota"
+  },
+  "SheetProperties": {
+    "Id": "43da63c7-ff4d-4a12-a474-a60f3a45e5a0",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "43da63c7-ff4d-4a12-a474-a60f3a45e5a0",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "View how sales reps are performing.",
+        "title": "Quota"
+      },
+      "rank": 4,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/Salesforce6.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

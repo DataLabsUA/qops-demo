@@ -1,0 +1,228 @@
+{
+  "Children": [],
+  "Column": 14,
+  "Height": 7,
+  "Id": "XNTGgf",
+  "Properties": {
+    "barGrouping": {
+      "grouping": "grouped"
+    },
+    "color": {
+      "auto": false,
+      "autoMinMax": true,
+      "colorExpression": "",
+      "dimensionId": "",
+      "dimensionScheme": "12",
+      "expressionIsColor": false,
+      "expressionLabel": "",
+      "measureMax": 10,
+      "measureMin": 0,
+      "measureScheme": "sg",
+      "mode": "byMeasure",
+      "persistent": true,
+      "reverseScheme": false,
+      "singleColor": 3
+    },
+    "dataPoint": {
+      "auto": false,
+      "labelMode": "share",
+      "show": false,
+      "showLabels": true
+    },
+    "dimensionAxis": {
+      "dock": "near",
+      "label": "auto",
+      "show": "labels"
+    },
+    "footnote": "",
+    "gridLine": {
+      "auto": true,
+      "spacing": 2
+    },
+    "legend": {
+      "dock": "auto",
+      "show": true,
+      "showTitle": true
+    },
+    "measureAxis": {
+      "autoMinMax": true,
+      "dock": "near",
+      "max": 10,
+      "min": 0,
+      "minMax": "min",
+      "show": "all",
+      "spacing": 1
+    },
+    "orientation": "horizontal",
+    "qHyperCubeDef": {
+      "qAlwaysFullyExpanded": true,
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": false,
+            "cId": "wFTm",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {
+                  "qv": "=Sum([Budget Amount])"
+                },
+                "qSortByExpression": -1,
+                "qSortByLoadOrder": 1
+              }
+            ],
+            "title": "Product Sub Group"
+          },
+          "qLibraryId": "e1432d2b-be66-4e9f-a134-65327550e346",
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {},
+          "title": "Product Sub Group"
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 500,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 17
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0,
+        1
+      ],
+      "qLayoutExclude": {},
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [
+            {
+              "id": "colorByExpression",
+              "qNumFormat": {
+                "qnDec": 10,
+                "qType": "U",
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "gFymzE",
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qDec": ".",
+              "qnDec": 10,
+              "qThou": " ",
+              "qType": "U",
+              "qUseThou": 0
+            },
+            "qTags": [],
+            "series": {
+              "axis": 0,
+              "marker": "circle",
+              "markerFill": true,
+              "type": "bar"
+            }
+          },
+          "qLibraryId": "epqAX",
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": 10000,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "XNTGgf",
+      "qType": "barchart"
+    },
+    "qLayoutExclude": {},
+    "qMetaDef": {},
+    "refLine": {
+      "refLines": []
+    },
+    "showTitles": true,
+    "subtitle": "",
+    "title": {
+      "qStringExpression": {
+        "qExpr": "'Sales $ by Product Group (sorted by Budget $)'"
+      }
+    },
+    "visualization": "barchart"
+  },
+  "Row": 0,
+  "Title": "'Sales $ by Product Group (sorted by Budget $)'",
+  "Type": "barchart",
+  "Width": 10
+}

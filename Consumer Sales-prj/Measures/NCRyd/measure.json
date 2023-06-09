@@ -1,0 +1,27 @@
+{
+  "Id": "NCRyd",
+  "Properties": {
+    "qInfo": {
+      "qId": "NCRyd",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "qActiveExpression": 0,
+      "qDef": "Sum([Sales Margin Amount])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Margin",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Margin"
+    }
+  }
+}

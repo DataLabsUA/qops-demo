@@ -1,0 +1,81 @@
+{
+  "Children": [
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "FPzF",
+      "Properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+          "qId": "FPzF",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "qDef": {
+            "autoSort": false,
+            "cId": "LKJDmTY",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Channel Name"
+            ],
+            "qFieldLabels": [
+              "Channel Name"
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true
+        },
+        "qMetaDef": {},
+        "showDetails": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Channel",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Channel",
+      "Type": "listbox",
+      "Width": 0
+    }
+  ],
+  "Column": 0,
+  "Height": 6,
+  "Id": "xVrXacn",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "qInfo": {
+      "qId": "xVrXacn",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showDetails": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 2,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 4
+}

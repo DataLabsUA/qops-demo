@@ -1,0 +1,30 @@
+{
+  "Id": "sSjYpM",
+  "Properties": {
+    "qInfo": {
+      "qId": "sSjYpM",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "sum({<[Opportunity Triphase]={'OPEN'}>}[Opportunity Amount] * $(='ExRate_USD')*[Opportunity Probability])/1000000",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Opportunity Amount - Open (in Millions)",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [
+        "Amount",
+        "Open",
+        "Opps"
+      ],
+      "title": "Opportunity Amount - Open (in Millions)"
+    }
+  }
+}

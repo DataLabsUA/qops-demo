@@ -1,0 +1,9 @@
+{
+  "Filter": "Name=crm,Id=*,Owner=*,Stream=;Name=consumer sales,Id=*,Owner=test,Stream=*",
+  "Ignore": "",
+  "Placeholders": null,
+  "Profile": "",
+  "Reduce": "",
+  "SkipExtensions": false,
+  "EOLStyle": null
+}

@@ -1,0 +1,24 @@
+{
+  "Id": "JMtyDzJ",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "State"
+      ],
+      "qFieldLabels": [
+        "State"
+      ],
+      "qGrouping": "N",
+      "title": "State"
+    },
+    "qInfo": {
+      "qId": "JMtyDzJ",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "State"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Id": "QPPpG",
+  "Properties": {
+    "qInfo": {
+      "qId": "QPPpG",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Num(Sum(Quota),'$#,##0.00M')",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Quota",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Quota"
+    }
+  }
+}

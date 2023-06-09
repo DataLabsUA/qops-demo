@@ -1,0 +1,1491 @@
+{
+  "Id": "DVDCw",
+  "Properties": {
+    "qChildListDef": {
+      "qData": {
+        "rank": "/rank",
+        "title": "/title"
+      }
+    },
+    "qInfo": {
+      "qId": "DVDCw",
+      "qType": "story"
+    },
+    "qMetaDef": {
+      "description": "",
+      "title": "Sales Rep Performance"
+    },
+    "rank": 1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    }
+  },
+  "Slides": [
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "77.43%",
+              "left": "44.24%",
+              "top": "18.06%",
+              "width": "52.83%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "XgBJEHX",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "nkJyN",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "treemap"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.17%",
+              "top": "2.79%",
+              "width": "40.12%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "ApDjQ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Bottom performing sales reps"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "3.71%",
+              "top": "10.59%",
+              "width": "55.08%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "xwKGSmc",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[%[Colored by Number of Lost Customers](4)](9)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "44.62%",
+              "left": "15.72%",
+              "top": "30.73%",
+              "width": "25.10%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "pqRqH",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "%[Our bottom performing sales reps, Janice Scott, Dennis Fisher, and Cart Lynch have lost customers in Frozen Foods, Snack Foods, and Canned Foods.](4)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "ySLc",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 1.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.96%",
+              "top": "3.31%",
+              "width": "40.12%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "YLTMNm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Bottom performing reps impact on margin"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "60.07%",
+              "left": "14.65%",
+              "top": "33.51%",
+              "width": "64.75%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "kmKVWm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "rSFLbV",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_d.svg",
+            "position": {
+              "height": "12.33%",
+              "left": "62.01%",
+              "top": "61.28%",
+              "width": "5.47%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "gJhewK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_d"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "23.26%",
+              "left": "56.07%",
+              "top": "37.50%",
+              "width": "32.42%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PbPm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "%[Unfortunately it's with our high margin products that our worst performing sales reps are losing the most customers.](4)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/dollar.svg",
+            "position": {
+              "height": "16.49%",
+              "left": "5.96%",
+              "top": "29.51%",
+              "width": "9.18%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "tAGMsuq",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "dollar"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "KPcWhW",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 2.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.66%",
+              "top": "3.31%",
+              "width": "40.12%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "uveGMm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Our sales are disturbingly low in the North East"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "32.81%",
+              "left": "3.42%",
+              "top": "57.29%",
+              "width": "45.51%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "FZhdEr",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "nWUPG",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "32.29%",
+              "left": "49.12%",
+              "top": "23.26%",
+              "width": "45.70%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "mPvrTug",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "kaFhZr",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "32.29%",
+              "left": "3.13%",
+              "top": "23.44%",
+              "width": "45.70%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "nurWWVz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "vAXFkN",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "31.94%",
+              "left": "49.51%",
+              "top": "56.77%",
+              "width": "45.21%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "DFaJq",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "AhemJVE",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "position": {
+              "height": "35.07%",
+              "left": "47.75%",
+              "top": "21.70%",
+              "width": "1.56%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "qQpbT",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "square"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "9.20%",
+              "left": "2.25%",
+              "top": "10.59%",
+              "width": "75.10%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "UhSfj",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "%[This is sales for our three worst performing sales reps](4)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "position": {
+              "height": "34.90%",
+              "left": "1.86%",
+              "top": "21.87%",
+              "width": "1.56%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "HJtm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "square"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "position": {
+              "height": "2.78%",
+              "left": "2.15%",
+              "top": "21.68%",
+              "width": "46.39%",
+              "z-index": 12
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PPaav",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "square"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "position": {
+              "height": "2.78%",
+              "left": "2.51%",
+              "top": "53.99%",
+              "width": "46.39%",
+              "z-index": 13
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "zjgmpd",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "square"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "GqMe",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 3.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "72.22%",
+              "left": "16.80%",
+              "top": "26.04%",
+              "width": "60.16%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "RXtmv",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "faKkSPN",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "barchart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.66%",
+              "top": "2.79%",
+              "width": "40.12%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "EGbjBmN",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Sales rep performance has not been aided by budgets"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.98%",
+              "left": "4.49%",
+              "top": "9.55%",
+              "width": "85.06%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "EMvSPr",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "%[Our worst performing reps have very low sales on some high budget items.  Simply raising the budget amount has not driven sales.](4)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.55%",
+              "top": "37.50%",
+              "width": "4.79%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "UUtpUF",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.63%",
+              "top": "43.58%",
+              "width": "4.79%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "ggYjUVJ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.54%",
+              "top": "54.51%",
+              "width": "4.79%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "HJpkjRF",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.65%",
+              "top": "66.32%",
+              "width": "4.79%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "YpxUaq",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.46%",
+              "top": "76.91%",
+              "width": "4.79%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "YAsHr",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.45%",
+              "top": "82.64%",
+              "width": "4.79%",
+              "z-index": 12
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "VQHFCj",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "5.03%",
+              "left": "18.54%",
+              "top": "60.42%",
+              "width": "4.79%",
+              "z-index": 13
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PKpd",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "jgzjZL",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 4.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "68.40%",
+              "left": "2.25%",
+              "top": "27.43%",
+              "width": "95.02%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "wnjMK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "ckDptc",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.66%",
+              "top": "2.96%",
+              "width": "40.12%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "WzGhP",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "However, other low performing reps sell well in Central"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "UHWjHTF",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 5.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "72.05%",
+              "left": "8.30%",
+              "top": "25.17%",
+              "width": "37.89%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "ucST",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "dawYJg",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "barchart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.66%",
+              "top": "2.96%",
+              "width": "40.12%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "jwceZap",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Even low performing reps sell Fresh Vegetables well"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "72.74%",
+              "left": "50.88%",
+              "top": "24.83%",
+              "width": "38.38%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "Jrzjn",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "NNtzRtJ",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "barchart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "8.51%",
+              "top": "17.01%",
+              "width": "37.70%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "YVCm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "^[#[%[**All Regions**](4)](9)](center)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "51.07%",
+              "top": "16.84%",
+              "width": "37.70%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "aAVMjmc",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "^[#[%[%[**Central Region**](4)](undefined)](9)](center)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "6.94%",
+              "left": "2.54%",
+              "top": "25.87%",
+              "width": "10.25%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "npjH",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#276e27",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_r.svg",
+            "position": {
+              "height": "6.94%",
+              "left": "45.51%",
+              "top": "25.87%",
+              "width": "10.25%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "pxCkGv",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#276e27",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_r"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "QbVxwp",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 6.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "64.06%",
+              "left": "11.91%",
+              "top": "31.42%",
+              "width": "72.07%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "jZPRzv",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "ftDhrT",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.15%",
+              "left": "1.76%",
+              "top": "2.79%",
+              "width": "40.12%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "JBBuySf",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Fresh Vegatables also have strong customer retention"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/arrow_l.svg",
+            "position": {
+              "height": "7.81%",
+              "left": "49.32%",
+              "top": "39.06%",
+              "width": "8.59%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "hUQLLz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#4477aa",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "arrow_l"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "9.55%",
+              "left": "57.13%",
+              "top": "37.67%",
+              "width": "27.34%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "TyDETZ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Blue color indicates high customer retention, and very few lost customers"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "pBjRAJF",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 7.0
+      }
+    }
+  ]
+}

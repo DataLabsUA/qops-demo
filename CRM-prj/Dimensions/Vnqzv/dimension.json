@@ -1,0 +1,24 @@
+{
+  "Id": "Vnqzv",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Account Billing Country"
+      ],
+      "qFieldLabels": [
+        "Country"
+      ],
+      "qGrouping": "N",
+      "title": "Country"
+    },
+    "qInfo": {
+      "qId": "Vnqzv",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Country"
+    }
+  }
+}

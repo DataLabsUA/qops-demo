@@ -1,0 +1,1890 @@
+{
+  "Id": "pkxBwY",
+  "Properties": {
+    "qChildListDef": {
+      "qData": {
+        "rank": "/rank",
+        "title": "/title"
+      }
+    },
+    "qInfo": {
+      "qId": "pkxBwY",
+      "qType": "story"
+    },
+    "qMetaDef": {
+      "description": "This storytelling deals with comparing 2 sales person on how they did over the last quater and year. Pointing out the differences between deal amount, won opportunities and number of customers. As an example we will see the performance from Minh Silvera and Gonzalo Geary.",
+      "title": "Comparing Sales Person"
+    },
+    "rank": 0,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    }
+  },
+  "Slides": [
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "10.91618%",
+              "left": "4.76892%",
+              "top": "1.38957%",
+              "width": "42.65351%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "pWFhpe",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[Comparing Sales Persons](3)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "16.37427%",
+              "left": "2.08299%",
+              "top": "70.36855%",
+              "width": "39.58333%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "bDSzRY",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Regions:**\n\\- Europe / Italy \\- Gonzalo Geary\n\\- USA \\- Minh Silvera\n"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "4.47%",
+              "left": "4.61%",
+              "top": "7.00%",
+              "width": "49.39%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "SRUWuL",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#7b7a78",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "20.27290%",
+              "left": "2.08163%",
+              "top": "14.81239%",
+              "width": "39.58333%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "jEaAtT",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Selected Sales Persons:\n**\\- Gonzalo Geary\n\\- Minh Silvera\n"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "17.34893%",
+              "left": "2.08299%",
+              "top": "44.44445%",
+              "width": "39.58333%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "jJtyQ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Investigated period:**\n\\- Quarter 4 in 2015\n\\- Year 2015\n"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "36.84211%",
+              "left": "27.08300%",
+              "top": "25.92411%",
+              "width": "68.75000%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "pFG",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "uXWqbsf",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "36.64717%",
+              "left": "27.08300%",
+              "top": "62.96236%",
+              "width": "68.75000%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "QCRasZ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "PqxZf",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.11111%",
+              "left": "54.16599%",
+              "top": "33.32788%",
+              "width": "16.66667%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "EEPdSN",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**#[%[~Minh Silvera~](4)](3)**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "11.11111%",
+              "left": "54.16599%",
+              "top": "62.95509%",
+              "width": "16.66667%",
+              "z-index": 12
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "czVCq",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**#[%[~Gonzalo Geary~](4)](3)**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "ztmuDnF",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 1.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "10.52632%",
+              "left": "4.16598%",
+              "top": "0.00000%",
+              "width": "39.58333%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PGauwv",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Comparing 2015"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "55.55556%",
+              "left": "2.08299%",
+              "top": "11.10929%",
+              "width": "95.94298%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "UfQyphC",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "FWLGCbC",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/circle.svg",
+            "position": {
+              "height": "7.40741%",
+              "left": "12.49932%",
+              "top": "22.22101%",
+              "width": "4.16667%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "GyxCjj",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "circle"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/circle.svg",
+            "position": {
+              "height": "11.11111%",
+              "left": "87.49933%",
+              "top": "29.62963%",
+              "width": "6.25000%",
+              "z-index": 12
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "HJGAKz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "circle"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "7.99220%",
+              "left": "29.16599%",
+              "top": "66.66546%",
+              "width": "9.75877%",
+              "z-index": 13
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "LSBPVsV",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[%[**Minh Silver**](2)](1)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.18713%",
+              "left": "62.49932%",
+              "top": "66.66546%",
+              "width": "12.06140%",
+              "z-index": 15
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "nyJWE",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[%[**Gonzalo Geary**](2)](1)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "3.70370%",
+              "left": "58.33334%",
+              "top": "74.07408%",
+              "width": "39.58333%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PspKPj",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "3.70370%",
+              "left": "6.24898%",
+              "top": "74.07408%",
+              "width": "40.78947%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "myPQedF",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#f93f17",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/pullout_t.svg",
+            "position": {
+              "height": "7.40741%",
+              "left": "85.41633%",
+              "top": "22.22101%",
+              "width": "12.60965%",
+              "z-index": 14
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "EqpjP",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#b0afae",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "pullout_t"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "7.40741%",
+              "left": "85.41633%",
+              "top": "22.22101%",
+              "width": "11.73246%",
+              "z-index": 16
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "WRszgb",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "%[**Gonzalo Geary**](3)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/pullout_r.svg",
+            "position": {
+              "height": "7.40741%",
+              "left": "16.66667%",
+              "top": "22.22101%",
+              "width": "12.50000%",
+              "z-index": 17
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "EnpnjC",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#b0afae",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "pullout_r"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.38207%",
+              "left": "18.74966%",
+              "top": "22.22101%",
+              "width": "9.64912%",
+              "z-index": 18
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "UVPLYPL",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "%[**Minh Silver**](3)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "33.13840%",
+              "left": "52.08300%",
+              "top": "62.96236%",
+              "width": "43.53070%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "XLTp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "hBgXZE",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "33.91813%",
+              "left": "6.24898%",
+              "top": "62.96236%",
+              "width": "41.66667%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "XjFsKw",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "asHdA",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "4.06213%",
+              "left": "4.16562%",
+              "top": "5.61156%",
+              "width": "27.08333%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "NJasS",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#7b7a78",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "sjSYPYu",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 2.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "10.33138%",
+              "left": "4.68844%",
+              "top": "1.53508%",
+              "width": "42.32456%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "BLcyJtK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Comparing Quarter 4 2015"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "3.86%",
+              "left": "4.61%",
+              "top": "7.00%",
+              "width": "47.28%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "VzNswPK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#7b7a78",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "7.40741%",
+              "left": "6.24898%",
+              "top": "29.62963%",
+              "width": "16.55702%",
+              "z-index": 14
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "VeZhfG",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Top 3 Closed Opp"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "22.22222%",
+              "left": "6.24898%",
+              "top": "11.10929%",
+              "width": "29.16667%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "BvxpLS",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "qdDPPyc",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "kpi"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.38207%",
+              "left": "8.33333%",
+              "top": "14.81482%",
+              "width": "9.86842%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "RpPrk",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Minh Silvera**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.38207%",
+              "left": "56.24898%",
+              "top": "14.81482%",
+              "width": "11.73246%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "ccNK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Gonzalo Geary**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "29.62963%",
+              "left": "6.24898%",
+              "top": "29.62721%",
+              "width": "39.58333%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "RjjjjxA",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "EhNHtuE",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "table"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "40.35088%",
+              "left": "6.24898%",
+              "top": "59.25926%",
+              "width": "85.30702%",
+              "z-index": 12
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "sLnkrL",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "gtpvyS",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "barchart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "29.62963%",
+              "left": "54.16599%",
+              "top": "29.62963%",
+              "width": "39.58333%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "hcSvup",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "id": "gMCqkM",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "table"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "22.22222%",
+              "left": "54.16599%",
+              "top": "11.10929%",
+              "width": "31.03070%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "spyjmt",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "UuWEqTS",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "kpi"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "7.40741%",
+              "left": "54.16599%",
+              "top": "29.62963%",
+              "width": "16.66667%",
+              "z-index": 13
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "YVwUJs",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Top 3 Closed Opp"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "7.21248%",
+              "left": "25.00000%",
+              "top": "14.81239%",
+              "width": "14.58333%",
+              "z-index": 15
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "wLGCJ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[Win Rate: 63%](3)^[#[# Customer: 5](3)](inherit)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "7.40741%",
+              "left": "75.00000%",
+              "top": "14.81239%",
+              "width": "14.58333%",
+              "z-index": 16
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "bMskV",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[Win Rate: 76%](3)^[#[# Customers: 48](3)](inherit)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_v.svg",
+            "position": {
+              "height": "37.03704%",
+              "left": "50.00000%",
+              "top": "18.51306%",
+              "width": "2.08333%",
+              "z-index": 17
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "AudUDCA",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#000000",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_v"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "uJmx",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 3.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "10.34%",
+              "left": "4.34%",
+              "top": "1.23%",
+              "width": "40.02%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "Cauqtw",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Comparing on Detail"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "3.74%",
+              "left": "4.61%",
+              "top": "7.00%",
+              "width": "38.25%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "mDdRFp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#7b7a78",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_v.svg",
+            "position": {
+              "height": "87.32%",
+              "left": "49.80%",
+              "top": "10.90%",
+              "width": "2.11%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PgxAr",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#7b7a78",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_v"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "39.15%",
+              "top": "92.88%",
+              "width": "9.78%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "shmyNvK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Minh Silvera**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "50.34%",
+              "top": "92.87%",
+              "width": "11.68%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "yagFJdy",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Gonzalo Geary**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "37.08%",
+              "left": "1.09%",
+              "top": "12.56%",
+              "width": "46.81%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "vgwpQ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "gZJGPsH",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "37.20%",
+              "left": "50.83%",
+              "top": "12.44%",
+              "width": "47.42%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "LVSAAK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "HxGjEKJ",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "37.08%",
+              "left": "1.15%",
+              "top": "53.74%",
+              "width": "46.81%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "mNkjqz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "pSJKAsm",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "37.08%",
+              "left": "50.83%",
+              "top": "53.75%",
+              "width": "46.81%",
+              "z-index": 12
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "PjEewv",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "jHrPtD",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "cQsfp",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 5.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "98%",
+              "left": "1.5%",
+              "top": "1%",
+              "width": "96%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "LpyEYgt",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "selectionState": {},
+            "sheetId": "jTxjwh",
+            "title": "",
+            "visualization": "sheet"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "pCnXsf",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 4.0
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "10.34%",
+              "left": "4.77%",
+              "top": "1.70%",
+              "width": "40.02%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "JxEZC",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "Comparing on Detail"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "title"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "88.24%",
+              "top": "11.35%",
+              "width": "9.85%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "cFFdvMs",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Minh Silvera**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "8.33%",
+              "left": "86.96%",
+              "top": "50.84%",
+              "width": "11.68%",
+              "z-index": 6
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "HPKSsm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**Gonzalo Geary**"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "36.25731%",
+              "left": "3.05970%",
+              "top": "14.17944%",
+              "width": "48.35526%",
+              "z-index": 7
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "nvjAFL",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "#[%[**Summary:** ](4)](3)^[\n](left)^[\\- Gonzalo reaches his goals nearly every quarter WinRate of 70%](left)^[\n](left)^[\\- Minh has less opportunities but bigger deal size](left)^[\n](left)^[\\- Gonzalo closes a huge amount of opportunities reaching half of Minh's amount \\(Year\\)](left)^[\n](left)^[\n](left)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "36.20072%",
+              "left": "3.06830%",
+              "top": "52.80765%",
+              "width": "48.31989%",
+              "z-index": 8
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "JmmrVrB",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#6E6E6E",
+              "isNew": false,
+              "text": "**#[%[Room for improvement:](4)](3)**^[\n](left)^[\\- High win rate \\-\\-&gt; Gonzalo needs to increase the deal size in general](left)^[\n](left)^[\\- Minh needs to work more efficient to reach 70% win rate](left)^[\n](left)^[\n](left)^[\n](left)^[\n](left)"
+            },
+            "title": "",
+            "visualization": "text",
+            "visualizationType": "paragraph"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "position": {
+              "height": "3.74%",
+              "left": "4.61%",
+              "top": "7%",
+              "width": "38.25%",
+              "z-index": 9
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "hLuhSm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#7b7a78",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "2lines_h"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "37.08%",
+              "left": "52.76%",
+              "top": "52.65%",
+              "width": "46.81%",
+              "z-index": 10
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "fjZueJ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "PdZamV",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "37.08%",
+              "left": "52.96%",
+              "top": "12.95%",
+              "width": "46.74%",
+              "z-index": 11
+            },
+            "qEmbeddedSnapshotDef": {
+              "isClone": false,
+              "timestamp": 0.0
+            },
+            "qInfo": {
+              "qId": "KEjmqT",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "style": {
+              "id": "guPuGM",
+              "isNew": false
+            },
+            "title": "",
+            "visualization": "snapshot",
+            "visualizationType": "linechart"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "cJegyq",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 6.0
+      }
+    }
+  ]
+}

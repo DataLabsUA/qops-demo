@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "Explore the revenue by industry.",
+    "Id": "jTxjwh",
+    "Title": "Revenue by Industry"
+  },
+  "SheetProperties": {
+    "Id": "jTxjwh",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "jTxjwh",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "Explore the revenue by industry.",
+        "title": "Revenue by Industry"
+      },
+      "rank": 0.875,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/Salesforce4.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

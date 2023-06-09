@@ -1,0 +1,29 @@
+{
+  "Id": "tUGKzY",
+  "Properties": {
+    "qInfo": {
+      "qId": "tUGKzY",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum ([Opportunity Amount] * $(='ExRate_USD'))/1000000",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Opportunity Amount (in Millions)",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [
+        "Amount",
+        "Opps"
+      ],
+      "title": "Opportunity Amount (in Millions)"
+    }
+  }
+}

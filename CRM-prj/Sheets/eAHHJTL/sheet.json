@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "View the closed won opportunities as well as the top 10 open opportunities.",
+    "Id": "eAHHJTL",
+    "Title": "Dashboard"
+  },
+  "SheetProperties": {
+    "Id": "eAHHJTL",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "eAHHJTL",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "View the closed won opportunities as well as the top 10 open opportunities.",
+        "title": "Dashboard"
+      },
+      "rank": 0,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/Salesforce1.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

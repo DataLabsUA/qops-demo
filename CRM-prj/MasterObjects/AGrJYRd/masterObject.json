@@ -1,0 +1,25 @@
+{
+  "Id": "AGrJYRd",
+  "Properties": {
+    "footnote": "",
+    "masterVersion": 0.96,
+    "metadata": {},
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "qInfo": {
+      "qId": "AGrJYRd",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "tags": [],
+      "title": "Top Bar"
+    },
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  }
+}

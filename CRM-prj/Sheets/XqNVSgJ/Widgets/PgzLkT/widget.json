@@ -1,0 +1,201 @@
+{
+  "Children": [],
+  "Column": 7,
+  "Height": 4,
+  "Id": "PgzLkT",
+  "Properties": {
+    "barGrouping": {
+      "grouping": "grouped"
+    },
+    "color": {
+      "auto": false,
+      "autoMinMax": true,
+      "dimensionId": "",
+      "dimensionScheme": "12",
+      "expressionIsColor": true,
+      "expressionLabel": "",
+      "measureMax": 10,
+      "measureMin": 0,
+      "measureScheme": "sg",
+      "mode": "byDimension",
+      "persistent": true,
+      "reverseScheme": false,
+      "singleColor": 3
+    },
+    "dataPoint": {
+      "showLabels": true
+    },
+    "dimensionAxis": {
+      "dock": "near",
+      "label": "auto",
+      "show": "labels"
+    },
+    "footnote": "",
+    "gridLine": {
+      "auto": true,
+      "spacing": 2
+    },
+    "legend": {
+      "dock": "auto",
+      "show": false,
+      "showTitle": true
+    },
+    "measureAxis": {
+      "autoMinMax": true,
+      "dock": "near",
+      "max": 10,
+      "min": 0,
+      "minMax": "min",
+      "show": "title",
+      "spacing": 1
+    },
+    "orientation": "vertical",
+    "qHyperCubeDef": {
+      "qAlwaysFullyExpanded": true,
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "JthChdA",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1
+              }
+            ]
+          },
+          "qLibraryId": "Vnqzv",
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 500,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 17
+        }
+      ],
+      "qInterColumnSortOrder": [
+        1,
+        0
+      ],
+      "qLayoutExclude": {},
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "HHkgPv",
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qDec": ".",
+              "qFmt": "0%",
+              "qnDec": 2,
+              "qThou": ",",
+              "qType": "F",
+              "qUseThou": 0
+            },
+            "qTags": []
+          },
+          "qLibraryId": "euVkpz",
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "PgzLkT",
+      "qType": "barchart"
+    },
+    "qMetaDef": {},
+    "refLine": {
+      "refLines": []
+    },
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Win Rate by Country",
+    "visualization": "barchart"
+  },
+  "Row": 6,
+  "Title": "Win Rate by Country",
+  "Type": "barchart",
+  "Width": 8
+}

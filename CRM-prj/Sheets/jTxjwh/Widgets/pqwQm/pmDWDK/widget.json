@@ -1,0 +1,43 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 0,
+  "Id": "pmDWDK",
+  "Properties": {
+    "qInfo": {
+      "qId": "pmDWDK",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "qDef": {
+        "autoSort": true,
+        "qActiveField": 0,
+        "qFieldDefs": [],
+        "qFieldLabels": [],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {},
+            "qSortByAscii": 1,
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": 1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qLibraryId": "rFZSpm",
+      "qShowAlternatives": true
+    },
+    "qMetaDef": {},
+    "title": "Opp Close Year",
+    "visualization": "listbox"
+  },
+  "Row": 0,
+  "Title": "Opp Close Year",
+  "Type": "listbox",
+  "Width": 0
+}

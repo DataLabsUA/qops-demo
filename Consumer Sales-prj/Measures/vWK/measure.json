@@ -1,0 +1,26 @@
+{
+  "Id": "vWK",
+  "Properties": {
+    "qInfo": {
+      "qId": "vWK",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum({$ <[Region Name]={\"Northeast\"}> }[Sales Margin Amount])/Sum({$ <[Region Name]={\"Northeast\"}> }[Sales Amount])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Notheast Margin %",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Notheast Margin %"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Id": "nwCmves",
+  "Properties": {
+    "qInfo": {
+      "qId": "nwCmves",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "count([OpportunityId])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "# of Opps",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Number of opportunities",
+      "tags": [
+        "Opps"
+      ],
+      "title": "# of Opps"
+    }
+  }
+}

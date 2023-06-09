@@ -1,0 +1,228 @@
+{
+  "Children": [],
+  "Column": 13,
+  "Height": 6,
+  "Id": "cskJRTJ",
+  "Properties": {
+    "barGrouping": {
+      "grouping": "stacked"
+    },
+    "color": {
+      "auto": true,
+      "dimensionId": "",
+      "dimensionScheme": "12",
+      "expressionIsColor": true,
+      "measureScheme": "sg",
+      "mode": "primary",
+      "persistent": true,
+      "reverseScheme": false,
+      "singleColor": 3
+    },
+    "dataPoint": {
+      "showLabels": true
+    },
+    "dimensionAxis": {
+      "dock": "near",
+      "label": "auto",
+      "show": "labels"
+    },
+    "footnote": "",
+    "gridLine": {
+      "auto": true,
+      "spacing": 2
+    },
+    "legend": {
+      "dock": "top",
+      "show": true,
+      "showTitle": true
+    },
+    "masterVersion": 0.96,
+    "measureAxis": {
+      "autoMinMax": true,
+      "dock": "near",
+      "label": "horizontal",
+      "max": 10,
+      "min": 0,
+      "minMax": "min",
+      "show": "title",
+      "spacing": 1
+    },
+    "orientation": "horizontal",
+    "qHyperCubeDef": {
+      "qAlwaysFullyExpanded": true,
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": false,
+            "cId": "pfRaUc",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Account Billing Country"
+            ],
+            "qFieldLabels": [
+              ""
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {
+                  "qv": "count(DISTINCT [Account Rep Name])"
+                },
+                "qSortByAscii": 1,
+                "qSortByExpression": -1,
+                "qSortByLoadOrder": 1
+              }
+            ]
+          },
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 500,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 17
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0,
+        1
+      ],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "hHUbG",
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qDef": "count(DISTINCT [Account Rep Name])",
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qLabel": "Accounts",
+            "qNumFormat": {
+              "qnDec": 10,
+              "qType": "U",
+              "qUseThou": 0
+            },
+            "qTags": []
+          },
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": 10000,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "cskJRTJ",
+      "qType": "barchart"
+    },
+    "qMetaDef": {
+      "description": "Top 10 countries by number of accounts. Represented by year",
+      "tags": [],
+      "title": "Top 10 Countries"
+    },
+    "refLine": {
+      "refLines": []
+    },
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Top 10 Countries by Number of Accounts",
+    "visualization": "barchart"
+  },
+  "Row": 0,
+  "Title": "Top 10 Countries by Number of Accounts",
+  "Type": "barchart",
+  "Width": 11
+}

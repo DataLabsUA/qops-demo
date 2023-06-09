@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "Take a closer look at the opportunity details on this sheet.",
+    "Id": "BMTPUFE",
+    "Title": "Opportunities"
+  },
+  "SheetProperties": {
+    "Id": "BMTPUFE",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "BMTPUFE",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "Take a closer look at the opportunity details on this sheet.",
+        "title": "Opportunities"
+      },
+      "rank": 0.75,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/Salesforce3.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

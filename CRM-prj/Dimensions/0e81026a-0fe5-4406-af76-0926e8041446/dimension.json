@@ -1,0 +1,24 @@
+{
+  "Id": "0e81026a-0fe5-4406-af76-0926e8041446",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Account Rep Name"
+      ],
+      "qFieldLabels": [
+        "Account Rep Name"
+      ],
+      "qGrouping": "N",
+      "title": "Account Rep Name"
+    },
+    "qInfo": {
+      "qId": "0e81026a-0fe5-4406-af76-0926e8041446",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Account Rep Name"
+    }
+  }
+}

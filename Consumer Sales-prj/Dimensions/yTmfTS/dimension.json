@@ -1,0 +1,25 @@
+{
+  "Id": "yTmfTS",
+  "Properties": {
+    "isEditMode": true,
+    "qDim": {
+      "qFieldDefs": [
+        "state_name"
+      ],
+      "qFieldLabels": [
+        "state name"
+      ],
+      "qGrouping": "N",
+      "title": "state name"
+    },
+    "qInfo": {
+      "qId": "yTmfTS",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "state name"
+    }
+  }
+}

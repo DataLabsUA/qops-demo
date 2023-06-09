@@ -1,0 +1,6 @@
+{
+  "Definition": "=if(isnull(only(maptype)),fieldvalue( 'maptype', 1 ),maptype)",
+  "Id": "e07540ec-8125-4730-a373-e5219e80836a",
+  "IsScript": false,
+  "Name": "var_maptype"
+}

@@ -1,0 +1,24 @@
+{
+  "Id": "KHvcSGE",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Month"
+      ],
+      "qFieldLabels": [
+        "Month"
+      ],
+      "qGrouping": "N",
+      "title": "Month"
+    },
+    "qInfo": {
+      "qId": "KHvcSGE",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Month"
+    }
+  }
+}

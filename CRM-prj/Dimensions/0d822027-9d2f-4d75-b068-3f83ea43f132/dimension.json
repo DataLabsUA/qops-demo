@@ -1,0 +1,24 @@
+{
+  "Id": "0d822027-9d2f-4d75-b068-3f83ea43f132",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Opportunity Type"
+      ],
+      "qFieldLabels": [
+        "Opportunity Type"
+      ],
+      "qGrouping": "N",
+      "title": "Opportunity Type"
+    },
+    "qInfo": {
+      "qId": "0d822027-9d2f-4d75-b068-3f83ea43f132",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Opportunity Type"
+    }
+  }
+}

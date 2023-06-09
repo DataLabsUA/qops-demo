@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "Analyze how sales representatives are performing.",
+    "Id": "ftXVdnj",
+    "Title": "Sales Person"
+  },
+  "SheetProperties": {
+    "Id": "ftXVdnj",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "ftXVdnj",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "Analyze how sales representatives are performing.",
+        "title": "Sales Person"
+      },
+      "rank": 3,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/Salesforce5.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

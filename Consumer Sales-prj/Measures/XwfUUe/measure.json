@@ -1,0 +1,26 @@
+{
+  "Id": "XwfUUe",
+  "Properties": {
+    "qInfo": {
+      "qId": "XwfUUe",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Count({$<[Line Desc 1]={\"*\"}>}distinct [Order Number])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Order Count Total",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Order Count Total"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Id": "appprops",
+  "Properties": {
+    "qInfo": {
+      "qId": "appprops",
+      "qType": "appprops"
+    },
+    "qMetaDef": {},
+    "rtl": false,
+    "sheetLogoPosition": "",
+    "sheetLogoThumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/appcontent/_self/Qlik-Logo_WHITE.png"
+      }
+    },
+    "sheetTitleBgColor": {
+      "color": "#006580",
+      "index": 6
+    },
+    "sheetTitleColor": "#fffefc",
+    "sheetTitleGradientColor": {
+      "color": "#006580",
+      "index": 6
+    },
+    "theme": "horizon"
+  }
+}

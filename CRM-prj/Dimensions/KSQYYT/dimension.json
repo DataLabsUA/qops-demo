@@ -1,0 +1,24 @@
+{
+  "Id": "KSQYYT",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Opportunity Close Quarter/Year"
+      ],
+      "qFieldLabels": [
+        "Year Quarter"
+      ],
+      "qGrouping": "N",
+      "title": "Year Quarter"
+    },
+    "qInfo": {
+      "qId": "KSQYYT",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Year Quarter"
+    }
+  }
+}

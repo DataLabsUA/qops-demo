@@ -1,0 +1,43 @@
+{
+  "Id": "1fda7265-471c-4241-a2c9-dc1ff3e38cdf",
+  "Properties": {
+    "footnote": "",
+    "qInfo": {
+      "qId": "1fda7265-471c-4241-a2c9-dc1ff3e38cdf",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "qDef": {
+        "autoSort": false,
+        "cId": "XCmuPa",
+        "qActiveField": 0,
+        "qFieldDefs": [
+          "Opportunity Type"
+        ],
+        "qFieldLabels": [
+          ""
+        ],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {},
+            "qSortByAscii": 1,
+            "qSortByLoadOrder": 1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qOtherTotalSpec": {},
+      "qShowAlternatives": true
+    },
+    "qMetaDef": {},
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Opp Typ",
+    "visualization": "listbox"
+  }
+}

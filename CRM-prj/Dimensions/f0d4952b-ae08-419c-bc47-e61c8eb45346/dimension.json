@@ -1,0 +1,24 @@
+{
+  "Id": "f0d4952b-ae08-419c-bc47-e61c8eb45346",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Opportunity Status"
+      ],
+      "qFieldLabels": [
+        "Opportunity Status"
+      ],
+      "qGrouping": "N",
+      "title": "Opportunity Status"
+    },
+    "qInfo": {
+      "qId": "f0d4952b-ae08-419c-bc47-e61c8eb45346",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Opportunity Status"
+    }
+  }
+}

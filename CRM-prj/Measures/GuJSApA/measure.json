@@ -1,0 +1,28 @@
+{
+  "Id": "GuJSApA",
+  "Properties": {
+    "qInfo": {
+      "qId": "GuJSApA",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "count({<[Opportunity Won/Lost]={'WON'}>}[OpportunityId])\n",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "# of Opps Won",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Number of opportunities won",
+      "tags": [
+        "Opps Won"
+      ],
+      "title": "# of Opps Won"
+    }
+  }
+}

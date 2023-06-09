@@ -1,0 +1,43 @@
+{
+  "Id": "fb879996-4c03-42fd-8704-ef515fad38c9",
+  "Properties": {
+    "footnote": "",
+    "qInfo": {
+      "qId": "fb879996-4c03-42fd-8704-ef515fad38c9",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "qDef": {
+        "autoSort": false,
+        "cId": "axMrXpb",
+        "qActiveField": 0,
+        "qFieldDefs": [
+          "Opportunity Close Quarter/Year"
+        ],
+        "qFieldLabels": [
+          ""
+        ],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qOtherTotalSpec": {},
+      "qShowAlternatives": true
+    },
+    "qMetaDef": {},
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Year Q",
+    "visualization": "listbox"
+  }
+}

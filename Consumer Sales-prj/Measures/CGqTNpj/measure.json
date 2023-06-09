@@ -1,0 +1,27 @@
+{
+  "Id": "CGqTNpj",
+  "Properties": {
+    "qInfo": {
+      "qId": "CGqTNpj",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "qActiveExpression": 0,
+      "qDef": "Sum ([Budget Amount])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Budget $",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Budget $"
+    }
+  }
+}

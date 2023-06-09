@@ -1,0 +1,6 @@
+{
+    "git.autofetch": true,
+    "git.closeDiffOnOperation": true,
+    "git.mergeEditor": true,
+    "git.pullBeforeCheckout": true
+}

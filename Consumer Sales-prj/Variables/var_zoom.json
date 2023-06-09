@@ -1,0 +1,6 @@
+{
+  "Definition": "=max(aggr(if(max( round(256*pow(2,(_zoom_level -1)))+( longitude  *((256*pow(2,_zoom_level ))/360)) )-min( round(256*pow(2,(_zoom_level -1)))+( longitude  *((256*pow(2,_zoom_level ))/360)) ) <map_size_x AND max((256*pow(2,(_zoom_level-1)))+((0.5*log((1+(sin((latitude)*pi()/180)))/(1-(sin((latitude)*pi()/180)))))*((-256*pow(2,_zoom_level))/(2*pi()))))-min((256*pow(2,(_zoom_level-1)))+((0.5*log((1+(sin((latitude)*pi()/180)))/(1-(sin((latitude)*pi()/180)))))*((-256*pow(2,_zoom_level))/(2*pi()))))<map_size_y,_zoom_level,1),_zoom_level))",
+  "Id": "ec61631b-6d01-4456-b36c-6df19747f893",
+  "IsScript": false,
+  "Name": "var_zoom"
+}

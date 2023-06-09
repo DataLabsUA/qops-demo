@@ -1,0 +1,30 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "VJyJ",
+    "Title": "Sales Analysis"
+  },
+  "SheetProperties": {
+    "Id": "VJyJ",
+    "Properties": {
+      "columns": 36,
+      "gridResolution": "large",
+      "qInfo": {
+        "qId": "VJyJ",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Sales Analysis"
+      },
+      "rank": -0.875,
+      "rows": 18,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/CGS_Sales_Analysis.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

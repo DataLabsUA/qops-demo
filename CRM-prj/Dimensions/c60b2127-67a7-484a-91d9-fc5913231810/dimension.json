@@ -1,0 +1,24 @@
+{
+  "Id": "c60b2127-67a7-484a-91d9-fc5913231810",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "User Full Name"
+      ],
+      "qFieldLabels": [
+        "Sales Rep"
+      ],
+      "qGrouping": "N",
+      "title": "Sales Rep"
+    },
+    "qInfo": {
+      "qId": "c60b2127-67a7-484a-91d9-fc5913231810",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Sales Rep"
+    }
+  }
+}

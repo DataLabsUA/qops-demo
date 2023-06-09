@@ -1,0 +1,30 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "AjDCJg",
+    "Title": "Budget Analysis"
+  },
+  "SheetProperties": {
+    "Id": "AjDCJg",
+    "Properties": {
+      "columns": 24,
+      "gridMode": "edit",
+      "qInfo": {
+        "qId": "AjDCJg",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Budget Analysis"
+      },
+      "rank": -0.8515625,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/CGS_Budget_Analysis.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

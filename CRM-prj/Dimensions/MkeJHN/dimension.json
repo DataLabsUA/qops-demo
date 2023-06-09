@@ -1,0 +1,24 @@
+{
+  "Id": "MkeJHN",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Account Industry"
+      ],
+      "qFieldLabels": [
+        "Account Industry"
+      ],
+      "qGrouping": "N",
+      "title": "Account Industry"
+    },
+    "qInfo": {
+      "qId": "MkeJHN",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Account Industry"
+    }
+  }
+}

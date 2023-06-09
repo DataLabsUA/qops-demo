@@ -1,0 +1,162 @@
+{
+  "Children": [],
+  "Column": 13,
+  "Height": 6,
+  "Id": "sssPPc",
+  "Properties": {
+    "footnote": "",
+    "qHyperCubeDef": {
+      "columnOrder": [
+        0,
+        1
+      ],
+      "columnWidths": [
+        -1,
+        -1
+      ],
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": false,
+            "cId": "LSpYt",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Opportunity Name"
+            ],
+            "qFieldLabels": [
+              " "
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByLoadOrder": 1
+              }
+            ]
+          },
+          "qNullSuppression": true,
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qOtherMode": "OTHER_COUNTED",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qSuppressOther": true,
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [],
+      "qInterColumnSortOrder": [
+        1,
+        0
+      ],
+      "qLayoutExclude": {},
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": false,
+            "cId": "aeJVtn",
+            "numFormatFromTemplate": false,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qDef": "sum({<[Opportunity Triphase]={'OPEN'}>}[Opportunity Amount] * $(='ExRate_USD')*[Opportunity Probability])/1000000",
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qLabel": " ",
+            "qNumFormat": {
+              "qDec": ".",
+              "qFmt": "$#,##0.00M",
+              "qnDec": 2,
+              "qThou": ",",
+              "qType": "F",
+              "qUseThou": 0
+            },
+            "qTags": []
+          },
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "sssPPc",
+      "qType": "table"
+    },
+    "qMetaDef": {},
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Top 10 Open Opps",
+    "totals": {
+      "position": "noTotals",
+      "show": "custom"
+    },
+    "visualization": "table"
+  },
+  "Row": 6,
+  "Title": "Top 10 Open Opps",
+  "Type": "table",
+  "Width": 4
+}

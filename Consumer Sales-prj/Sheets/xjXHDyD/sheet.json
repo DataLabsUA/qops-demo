@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "xjXHDyD",
+    "Title": "Sales Rep Performance"
+  },
+  "SheetProperties": {
+    "Id": "xjXHDyD",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "xjXHDyD",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Sales Rep Performance"
+      },
+      "rank": -0.859375,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/CGS_Sales_Rep_Performance.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

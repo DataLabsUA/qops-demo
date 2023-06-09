@@ -1,0 +1,42 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "qdQMSbX",
+  "Properties": {
+    "qExtendsId": "nbAZEN",
+    "qHyperCubeDef": {
+      "columnOrder": [
+        0,
+        1
+      ],
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [],
+      "qInterColumnSortOrder": [],
+      "qMaxStackedCells": 5000,
+      "qMeasures": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "qdQMSbX",
+      "qType": "table"
+    },
+    "qMetaDef": {}
+  },
+  "Row": 0,
+  "Title": "Sales Reps Sales Variance",
+  "Type": "table",
+  "Width": 6
+}

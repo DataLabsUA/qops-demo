@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "nAtvah",
+    "Title": "Customer Analysis Across Products & Sales Reps"
+  },
+  "SheetProperties": {
+    "Id": "nAtvah",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "nAtvah",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Customer Analysis Across Products & Sales Reps"
+      },
+      "rank": 0.75,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/CGS_Customer_Analysis.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

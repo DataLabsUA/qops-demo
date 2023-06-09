@@ -1,0 +1,30 @@
+{
+  "Id": "rpJjGF",
+  "Properties": {
+    "qInfo": {
+      "qId": "rpJjGF",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum ( {<[Opportunity Won/Lost]={'WON'} >}[Opportunity Amount] * $(='ExRate_USD')*[Opportunity Probability]) /\nsum( {<[Opportunity Won/Lost]={'WON'} >}[Opportunity_Count]) ",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Avg Revenue per Opp",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Average Revenue per opportunity adjusted with Win probability USD",
+      "tags": [
+        "Opps",
+        "Revenue",
+        "USD"
+      ],
+      "title": "Avg Revenue per Opp"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Id": "BhNJzjb",
+  "Properties": {
+    "qDim": {
+      "coloring": {
+        "changeHash": "0.2352086100040287"
+      },
+      "qFieldDefs": [
+        "Sales Price"
+      ],
+      "qFieldLabels": [
+        "Sales Price"
+      ],
+      "qGrouping": "N",
+      "title": "Sales Price"
+    },
+    "qInfo": {
+      "qId": "BhNJzjb",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Sales Price"
+    }
+  }
+}

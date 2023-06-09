@@ -1,0 +1,28 @@
+{
+  "Id": "djmLRb",
+  "Properties": {
+    "qInfo": {
+      "qId": "djmLRb",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "count(DISTINCT [Account Rep Name])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "# of Accounts",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Number of Accounts",
+      "tags": [
+        "Accounts"
+      ],
+      "title": "# of Accounts"
+    }
+  }
+}

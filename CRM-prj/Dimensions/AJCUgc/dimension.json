@@ -1,0 +1,24 @@
+{
+  "Id": "AJCUgc",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Account Billing City"
+      ],
+      "qFieldLabels": [
+        "City"
+      ],
+      "qGrouping": "N",
+      "title": "City"
+    },
+    "qInfo": {
+      "qId": "AJCUgc",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "Account City",
+      "tags": [],
+      "title": "City"
+    }
+  }
+}

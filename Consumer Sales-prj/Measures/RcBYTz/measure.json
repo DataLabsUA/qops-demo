@@ -1,0 +1,31 @@
+{
+  "Id": "RcBYTz",
+  "Properties": {
+    "qInfo": {
+      "qId": "RcBYTz",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "isCustomFormatted": false,
+      "qActiveExpression": 0,
+      "qDef": "Sum([Sales Quantity])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Quantity",
+      "qNumFormat": {
+        "qDec": ".",
+        "qFmt": "#,##0",
+        "qnDec": 2,
+        "qThou": ",",
+        "qType": "F",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Quantity"
+    }
+  }
+}

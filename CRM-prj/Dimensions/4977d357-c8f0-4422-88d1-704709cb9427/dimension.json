@@ -1,0 +1,24 @@
+{
+  "Id": "4977d357-c8f0-4422-88d1-704709cb9427",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Opportunity Name"
+      ],
+      "qFieldLabels": [
+        "Opportunity Name"
+      ],
+      "qGrouping": "N",
+      "title": "Opportunity Name"
+    },
+    "qInfo": {
+      "qId": "4977d357-c8f0-4422-88d1-704709cb9427",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Opportunity Name"
+    }
+  }
+}

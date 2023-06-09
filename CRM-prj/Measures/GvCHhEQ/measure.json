@@ -1,0 +1,29 @@
+{
+  "Id": "GvCHhEQ",
+  "Properties": {
+    "qInfo": {
+      "qId": "GvCHhEQ",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "avg([Opportunity Probability])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Win Probability %",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Opportuninity Win Chance",
+      "tags": [
+        "Opps",
+        "win"
+      ],
+      "title": "Win Probability %"
+    }
+  }
+}

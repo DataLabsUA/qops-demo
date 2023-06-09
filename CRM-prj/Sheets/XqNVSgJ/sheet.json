@@ -1,0 +1,29 @@
+{
+  "Sheet": {
+    "Description": "Analyze the trends in deal size, win rate, number of opportunities and value.",
+    "Id": "XqNVSgJ",
+    "Title": "Trends"
+  },
+  "SheetProperties": {
+    "Id": "XqNVSgJ",
+    "Properties": {
+      "columns": 24,
+      "qInfo": {
+        "qId": "XqNVSgJ",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "Analyze the trends in deal size, win rate, number of opportunities and value.",
+        "title": "Trends"
+      },
+      "rank": 0.5,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/Salesforce2.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

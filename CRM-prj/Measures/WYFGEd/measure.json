@@ -1,0 +1,29 @@
+{
+  "Id": "WYFGEd",
+  "Properties": {
+    "qInfo": {
+      "qId": "WYFGEd",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum([Opportunity Amount]*[Opportunity Probability]*$(='ExRate_USD'))",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Revenue",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Revenue adjusted with Opportunity Probability",
+      "tags": [
+        "Opps",
+        "Revenue"
+      ],
+      "title": "Revenue"
+    }
+  }
+}

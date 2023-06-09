@@ -1,0 +1,29 @@
+{
+  "Id": "Fphmj",
+  "Properties": {
+    "qInfo": {
+      "qId": "Fphmj",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Count ({<[Opportunity Won/Lost] = {'WON'} >} DISTINCT [Customer Account Id])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "# of Customers",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "Number of Customers closed Won",
+      "tags": [
+        "Customers",
+        "Won"
+      ],
+      "title": "# of Customers"
+    }
+  }
+}

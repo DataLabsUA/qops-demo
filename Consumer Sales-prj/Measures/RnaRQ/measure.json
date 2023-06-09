@@ -1,0 +1,26 @@
+{
+  "Id": "RnaRQ",
+  "Properties": {
+    "qInfo": {
+      "qId": "RnaRQ",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "count(distinct If([Late Shipment] = 1 ,Shipments))",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Late Shipments",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Late Shipments"
+    }
+  }
+}

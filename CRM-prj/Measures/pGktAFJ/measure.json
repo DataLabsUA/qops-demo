@@ -1,0 +1,29 @@
+{
+  "Id": "pGktAFJ",
+  "Properties": {
+    "qInfo": {
+      "qId": "pGktAFJ",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Sum ([Opportunity Amount] * $(='ExRate_USD')*[Opportunity Won_Flag]) / Sum (Opportunity_Count)",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Avg Won Opportunity Amount",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [
+        "Amount",
+        "Opps"
+      ],
+      "title": "Avg Won Opportunity Amount"
+    }
+  }
+}

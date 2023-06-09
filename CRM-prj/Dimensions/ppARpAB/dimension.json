@@ -1,0 +1,24 @@
+{
+  "Id": "ppARpAB",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "=[User Full Name] & '_' & [Opportunity Name]"
+      ],
+      "qFieldLabels": [
+        "Sales Rep_Opp Number"
+      ],
+      "qGrouping": "N",
+      "title": "Sales Rep_Opp Number"
+    },
+    "qInfo": {
+      "qId": "ppARpAB",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Sales Rep_Opp Number"
+    }
+  }
+}

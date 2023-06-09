@@ -1,0 +1,27 @@
+{
+  "Id": "KJuWm",
+  "Properties": {
+    "qInfo": {
+      "qId": "KJuWm",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "qActiveExpression": 0,
+      "qDef": "Sum({$<[Year]={\"2022\"}>}[Sales Amount])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "TY Sales",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "TY Sales"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Id": "BXnM",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "textBudgetPeriod"
+      ],
+      "qFieldLabels": [
+        "Budget Period"
+      ],
+      "qGrouping": "N",
+      "title": "Budget Period"
+    },
+    "qInfo": {
+      "qId": "BXnM",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Budget Period"
+    }
+  }
+}

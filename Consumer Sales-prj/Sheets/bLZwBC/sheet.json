@@ -1,0 +1,30 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "bLZwBC",
+    "Title": "Sales & Margin Performance"
+  },
+  "SheetProperties": {
+    "Id": "bLZwBC",
+    "Properties": {
+      "columns": 24,
+      "gridResolution": "small",
+      "qInfo": {
+        "qId": "bLZwBC",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Sales & Margin Performance"
+      },
+      "rank": -0.9375,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/CGS_Sales_and_Budget.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

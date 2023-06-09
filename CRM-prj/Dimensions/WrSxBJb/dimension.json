@@ -1,0 +1,24 @@
+{
+  "Id": "WrSxBJb",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Opportunity Stage"
+      ],
+      "qFieldLabels": [
+        "Opportunity Stage"
+      ],
+      "qGrouping": "N",
+      "title": "Opportunity Stage"
+    },
+    "qInfo": {
+      "qId": "WrSxBJb",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Opportunity Stage"
+    }
+  }
+}

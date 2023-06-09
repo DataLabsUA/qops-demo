@@ -1,0 +1,27 @@
+{
+  "Id": "apAyS",
+  "Properties": {
+    "qDim": {
+      "coloring": {
+        "changeHash": "0.335300512276709"
+      },
+      "qFieldDefs": [
+        "Channel Name"
+      ],
+      "qFieldLabels": [
+        "Channel Name"
+      ],
+      "qGrouping": "N",
+      "title": "Channel Name"
+    },
+    "qInfo": {
+      "qId": "apAyS",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Channel Name"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Id": "dcdac2a9-9ee6-4e5d-83ed-8866e8e06d07",
+  "Properties": {
+    "footnote": "",
+    "qInfo": {
+      "qId": "dcdac2a9-9ee6-4e5d-83ed-8866e8e06d07",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "qDef": {
+        "autoSort": false,
+        "cId": "CgMXLPG",
+        "qActiveField": 0,
+        "qFieldDefs": [
+          "Product Name"
+        ],
+        "qFieldLabels": [
+          ""
+        ],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {
+              "qv": "sum([Opportunity Amount])"
+            },
+            "qSortByAscii": 1,
+            "qSortByExpression": -1,
+            "qSortByLoadOrder": 1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qOtherTotalSpec": {},
+      "qShowAlternatives": true
+    },
+    "qMetaDef": {},
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Product",
+    "visualization": "listbox"
+  }
+}

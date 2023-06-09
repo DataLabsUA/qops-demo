@@ -1,0 +1,24 @@
+{
+  "Id": "feb8fd99-25d0-46e8-a902-562b249d17e2",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Product Name"
+      ],
+      "qFieldLabels": [
+        "Product Name"
+      ],
+      "qGrouping": "N",
+      "title": "Product Name"
+    },
+    "qInfo": {
+      "qId": "feb8fd99-25d0-46e8-a902-562b249d17e2",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Product Name"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Children": [],
+  "Column": 12,
+  "Height": 12,
+  "Id": "ueMQ",
+  "Properties": {
+    "qExtendsId": "KcEzMx",
+    "qInfo": {
+      "qId": "ueMQ",
+      "qType": "scatterplot"
+    },
+    "qMetaDef": {}
+  },
+  "Row": 0,
+  "Title": "# Customers, Closed Rev. and Won Opps",
+  "Type": "scatterplot",
+  "Width": 12
+}

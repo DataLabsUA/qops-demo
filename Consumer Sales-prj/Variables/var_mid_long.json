@@ -1,0 +1,6 @@
+{
+  "Definition": "=min(longitude)+(max(longitude)-min(longitude))/2",
+  "Id": "e37a704e-34fe-4a85-a69b-46c2bcfe25e6",
+  "IsScript": false,
+  "Name": "var_mid_long"
+}

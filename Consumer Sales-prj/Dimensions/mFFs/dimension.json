@@ -1,0 +1,24 @@
+{
+  "Id": "mFFs",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Area"
+      ],
+      "qFieldLabels": [
+        "Area"
+      ],
+      "qGrouping": "N",
+      "title": "Area"
+    },
+    "qInfo": {
+      "qId": "mFFs",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Area"
+    }
+  }
+}

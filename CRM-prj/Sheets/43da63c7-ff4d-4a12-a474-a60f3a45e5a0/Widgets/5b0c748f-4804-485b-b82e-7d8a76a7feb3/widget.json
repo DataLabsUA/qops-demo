@@ -1,0 +1,220 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 5,
+  "Id": "5b0c748f-4804-485b-b82e-7d8a76a7feb3",
+  "Properties": {
+    "": [],
+    "fontSize": "S",
+    "footnote": "",
+    "qHyperCubeDef": {
+      "customErrorMessage": {
+        "calcCond": ""
+      },
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 10,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 500
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0,
+        1
+      ],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "abQpug",
+            "conditionalColoring": {
+              "segments": {
+                "colors": [
+                  {
+                    "color": 2
+                  }
+                ],
+                "limits": []
+              },
+              "singleColor": 3,
+              "useConditionalColoring": false
+            },
+            "measureAxis": {
+              "max": 100,
+              "min": 0
+            },
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qDef": "Num(Sum(Quota),'$#,##0.00M')",
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qLabel": "Quota",
+            "qNumFormat": {
+              "qnDec": 10,
+              "qType": "U",
+              "qUseThou": 0
+            },
+            "qTags": []
+          },
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        },
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "rUwgLV",
+            "conditionalColoring": {
+              "segments": {
+                "colors": [
+                  {
+                    "color": 2
+                  }
+                ],
+                "limits": []
+              },
+              "singleColor": 3,
+              "useConditionalColoring": false
+            },
+            "measureAxis": {
+              "max": 100,
+              "min": 0
+            },
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qDef": "Sum ({<[Opportunity Won/Lost]={'WON'} >}[Opportunity Amount] * $(='ExRate_USD'))/1000000",
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qLabel": "Opportunity Amount - Won (in Millions)",
+            "qNumFormat": {
+              "qDec": ".",
+              "qFmt": "$#,##0.00M",
+              "qnDec": 2,
+              "qThou": ",",
+              "qType": "R",
+              "qUseThou": 0
+            },
+            "qTags": []
+          },
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "5b0c748f-4804-485b-b82e-7d8a76a7feb3",
+      "qType": "kpi"
+    },
+    "qMetaDef": {},
+    "sheetLink": "",
+    "showMeasureTitle": true,
+    "showTitles": false,
+    "subtitle": "",
+    "textAlign": "center",
+    "title": "",
+    "useLink": false,
+    "visualization": "kpi"
+  },
+  "Row": 1,
+  "Title": "",
+  "Type": "kpi",
+  "Width": 10
+}

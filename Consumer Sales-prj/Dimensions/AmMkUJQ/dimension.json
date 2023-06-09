@@ -1,0 +1,24 @@
+{
+  "Id": "AmMkUJQ",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "City"
+      ],
+      "qFieldLabels": [
+        "City"
+      ],
+      "qGrouping": "N",
+      "title": "City"
+    },
+    "qInfo": {
+      "qId": "AmMkUJQ",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "City"
+    }
+  }
+}

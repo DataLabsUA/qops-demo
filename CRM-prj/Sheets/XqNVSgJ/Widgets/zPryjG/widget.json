@@ -1,0 +1,79 @@
+{
+  "Children": [
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "bKHsV",
+      "Properties": {
+        "footnote": "",
+        "qInfo": {
+          "qId": "bKHsV",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "qDef": {
+            "autoSort": true,
+            "cId": "Uakar",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "=[User Full Name]"
+            ],
+            "qFieldLabels": [
+              "=[User Full Name]"
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true
+        },
+        "qMetaDef": {},
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Sales Rep",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Sales Rep",
+      "Type": "listbox",
+      "Width": 0
+    }
+  ],
+  "Column": 0,
+  "Height": 1,
+  "Id": "zPryjG",
+  "Properties": {
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "qInfo": {
+      "qId": "zPryjG",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 0,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 6
+}

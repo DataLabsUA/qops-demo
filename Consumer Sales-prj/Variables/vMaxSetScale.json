@@ -1,0 +1,6 @@
+{
+  "Definition": "=If(Count(distinct [Invoice Number]) < 500, 1,   \tIf(Count(distinct [Invoice Number]) < 1000, 10,   \tIf(Count(distinct [Invoice Number]) < 5000, 100, 1000)))",
+  "Id": "d03c2bf1-d6f2-4a9a-a756-712a27511a50",
+  "IsScript": false,
+  "Name": "vMaxSetScale"
+}

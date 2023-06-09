@@ -1,0 +1,26 @@
+{
+  "Id": "TWXTd",
+  "Properties": {
+    "qInfo": {
+      "qId": "TWXTd",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "count({<[Opportunity Triphase]={'OPEN'}>}[OpportunityId])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "# of Opps Open",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "# of Opps Open"
+    }
+  }
+}

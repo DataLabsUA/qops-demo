@@ -1,0 +1,24 @@
+{
+  "Id": "eec944b3-ae84-46b3-8846-80580de26072",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Product Type"
+      ],
+      "qFieldLabels": [
+        "Product Type"
+      ],
+      "qGrouping": "N",
+      "title": "Product Type"
+    },
+    "qInfo": {
+      "qId": "eec944b3-ae84-46b3-8846-80580de26072",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Product Type"
+    }
+  }
+}

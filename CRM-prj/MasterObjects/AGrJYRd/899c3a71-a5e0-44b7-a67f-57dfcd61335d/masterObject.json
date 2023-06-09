@@ -1,0 +1,40 @@
+{
+  "Id": "899c3a71-a5e0-44b7-a67f-57dfcd61335d",
+  "Properties": {
+    "qInfo": {
+      "qId": "899c3a71-a5e0-44b7-a67f-57dfcd61335d",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "qDef": {
+        "autoSort": false,
+        "qActiveField": 0,
+        "qFieldDefs": [
+          "Account Billing Country"
+        ],
+        "qFieldLabels": [
+          "Account Billing Country"
+        ],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {
+              "qv": "sum(Opportunity_Count)"
+            },
+            "qSortByExpression": -1,
+            "qSortByLoadOrder": 1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qShowAlternatives": true
+    },
+    "qMetaDef": {},
+    "title": "Country",
+    "visualization": "listbox"
+  }
+}

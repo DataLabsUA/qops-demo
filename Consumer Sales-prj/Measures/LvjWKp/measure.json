@@ -1,0 +1,26 @@
+{
+  "Id": "LvjWKp",
+  "Properties": {
+    "qInfo": {
+      "qId": "LvjWKp",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qActiveExpression": 0,
+      "qDef": "Avg([Sales Amount])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Avg Sales",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Avg Sales"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Id": "rFZSpm",
+  "Properties": {
+    "qDim": {
+      "qFieldDefs": [
+        "Opportunity Close Year"
+      ],
+      "qFieldLabels": [
+        "Year"
+      ],
+      "qGrouping": "N",
+      "title": "Year"
+    },
+    "qInfo": {
+      "qId": "rFZSpm",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "Year"
+    }
+  }
+}

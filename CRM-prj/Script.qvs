@@ -1,0 +1,146 @@
+///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='#.##0,00 €;-#.##0,00 €';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD.MM.YYYY';
+SET TimestampFormat='DD.MM.YYYY hh:mm:ss[.fff]';
+SET MonthNames='Jan;Feb;Mrz;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez';
+SET DayNames='Mo;Di;Mi;Do;Fr;Sa;So';
+SET LongMonthNames='Januar;Februar;März;April;Mai;Juni;Juli;August;September;Oktober;November;Dezember';
+SET LongDayNames='Montag;Dienstag;Mittwoch;Donnerstag;Freitag;Samstag;Sonntag';
+SET FirstWeekDay=0;
+SET BrokenWeeks=0;
+SET ReferenceDay=4;
+SET FirstMonthOfYear=1;
+
+SET vTodaysDate = '3/12/2016';
+SET vPreviousQ = 'Q4-15';
+SET vCurrency = "'[ExRate_' & CURRENCY &']'";
+SET vFutureQ = "Q2-16";
+SET vCurrentQ = "Q1-16";
+SET vPrevQ = "=if(Ceil(Month(vTodaysDate)/3)=1,Right(Year(vTodaysDate),2)-1,Right(Year(vTodaysDate),2))& if(Ceil(Month(vTodaysDate)/3)=1,4,Ceil(Month(vTodaysDate)/3)-1)";
+SET vFutQ = "=num(if(Ceil(Month(vTodaysDate)/3)=4,Right(Year(vTodaysDate),2)+1,Right(Year(vTodaysDate),2)) & if(Ceil(Month(vTodaysDate)/3)=4,1,Ceil(Month(vTodaysDate)/3)+1) )";
+
+///$tab Account
+account:
+LOAD
+    AccountId,
+    "Account Rep Name",
+    "Account Type",
+    "Account Billing Street",
+    "Account Billing City",
+    "Account Billing State",
+    "Account Billing Zip",
+    "Account Billing Country",
+    "Account Industry"
+FROM [lib://QVDs/account.qvd]
+(qvd);
+
+
+
+///$tab Opportunity
+opportunity:
+LOAD
+    OpportunityId,
+    OpportunityIdCount,
+    Opportunity_Count,
+    AccountId,
+    "Opportunity Name",
+    "Customer Account Id",
+    "Opportunity Stage",
+    "Opportunity Amount",
+    ExRate_ARS,
+    ExRate_AUD,
+    ExRate_BRL,
+    ExRate_CAD,
+    ExRate_CHF,
+    ExRate_DKK,
+    ExRate_EUR,
+    ExRate_GBP,
+    ExRate_HKD,
+    ExRate_INR,
+    ExRate_JPY,
+    ExRate_MXN,
+    ExRate_NOK,
+    ExRate_SEK,
+    ExRate_SGD,
+    ExRate_USD,
+    "Opportunity Probability",
+    "Opportunity Close Date",
+    "Opportunity Close Month",
+    "Opportunity Close Year",
+    "Opportunity Close Month/Year",
+    "Opportunity Close Quarter",
+    "Opportunity Close Quarter/Year",
+    "Opportunity Close YearQuarter",
+    "Opportunity Type",
+    "Opportunity Is Closed?",
+    "Opportunity Is Won?",
+    "Opportunity Status",
+    "Opportunity Open_Flag",
+    "Opportunity Closed_Flag",
+    "Opportunity Won/Lost",
+    "Opportunity Won_Flag",
+    "Opportunity Triphase",
+    "Opportunity Forecast Category",
+    "User Id",
+    "Opportunity Created Date"
+FROM [lib://QVDs/opportunity.qvd]
+(qvd);
+
+
+
+
+///$tab Opportunity Line Item
+opportunitylineitem:
+LOAD
+    OpportunityId,
+    PricebookEntryId,
+    "Opportunity Qty"
+FROM [lib://QVDs/opportunitylineitem.qvd]
+(qvd);
+
+
+
+
+///$tab Pricebook Entry
+pricebookentry:
+LOAD
+    PricebookEntryId,
+    Product2Id
+FROM [lib://QVDs/pricebookentry.qvd]
+(qvd);
+
+
+///$tab Product
+product:
+LOAD
+    Product2Id,
+    "Product Name"
+FROM [lib://QVDs/product.qvd]
+(qvd);
+
+
+///$tab User
+user:
+LOAD
+    "User Id",
+    "User Full Name",
+    Quota
+FROM [lib://QVDs/user2.qvd]
+(qvd);
+
+
+
+
+///$tab Opp Name
+oppname:
+LOAD
+    CURRENCY
+FROM [lib://QVDs/oppname.qvd]
+(qvd);
+
+
