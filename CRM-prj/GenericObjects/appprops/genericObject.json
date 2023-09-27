@@ -1,0 +1,21 @@
+{
+  "Id": "appprops",
+  "Properties": {
+    "chartAnimations": true,
+    "disableCellNavMenu": false,
+    "qInfo": {
+      "qId": "appprops",
+      "qType": "appprops"
+    },
+    "qMetaDef": {},
+    "rtl": false,
+    "sheetLogoPosition": "",
+    "sheetLogoThumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "sheetTitleBgColor": "",
+    "sheetTitleColor": "",
+    "sheetTitleGradientColor": "",
+    "theme": "horizon"
+  }
+}

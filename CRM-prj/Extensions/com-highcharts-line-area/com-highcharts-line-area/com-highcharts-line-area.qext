@@ -1,0 +1,9 @@
+{
+    "name": "DATAWORKS Highcharts LINE AREA",
+    "description": "line area chart usin HighchartsJS library. https://github.com/countnazgul/Qlik-Sense-HighchartJS-Pie-Chart-Extension",
+    "icon": "line-chart",
+    "type": "visualization",
+    "version": "1.0",
+    "preview": "line",
+    "author": ""
+}

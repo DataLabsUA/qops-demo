@@ -1,7 +1,10 @@
 {
+  "Description": "",
   "Id": "43c7fea3-5dd3-47a7-b1d2-4e49b1d89c5c",
   "Name": "CRM",
-  "Owner": "Test",
+  "Owner": {
+    "name": "Test"
+  },
   "Published": false,
   "Stream": "",
   "ThumbnailUrl": "/appcontent/_self/Thumbnails-salesforce.png"

@@ -1,0 +1,42 @@
+{
+  "name": "com-highcharts-line-area",
+  "Properties": [],
+  "qopsExtensionType": "QlikSense",
+  "references": [
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\com-highcharts-line-area.js",
+      "externalPath": "/extensions/com-highcharts-line-area/com-highcharts-line-area.js",
+      "logicalPath": "/extensions/com-highcharts-line-area/com-highcharts-line-area.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\com-highcharts-line-area.qext",
+      "externalPath": "/extensions/com-highcharts-line-area/com-highcharts-line-area.qext",
+      "logicalPath": "/extensions/com-highcharts-line-area/com-highcharts-line-area.qext"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\exporting.js",
+      "externalPath": "/extensions/com-highcharts-line-area/exporting.js",
+      "logicalPath": "/extensions/com-highcharts-line-area/exporting.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\highcharts.js",
+      "externalPath": "/extensions/com-highcharts-line-area/highcharts.js",
+      "logicalPath": "/extensions/com-highcharts-line-area/highcharts.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\index.htm",
+      "externalPath": "/extensions/com-highcharts-line-area/index.htm",
+      "logicalPath": "/extensions/com-highcharts-line-area/index.htm"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\simpletable.css",
+      "externalPath": "/extensions/com-highcharts-line-area/simpletable.css",
+      "logicalPath": "/extensions/com-highcharts-line-area/simpletable.css"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\com-highcharts-line-area\\wbfolder.wbl",
+      "externalPath": "/extensions/com-highcharts-line-area/wbfolder.wbl",
+      "logicalPath": "/extensions/com-highcharts-line-area/wbfolder.wbl"
+    }
+  ]
+}

@@ -1,7 +1,10 @@
 {
+  "Description": "",
   "Id": "14c2fa84-d35a-421e-8f49-4abcde66f1b1",
   "Name": "Consumer Sales",
-  "Owner": "Test",
+  "Owner": {
+    "name": "Test"
+  },
   "Published": false,
   "Stream": "",
   "ThumbnailUrl": "/appcontent/_self/consumer.png"

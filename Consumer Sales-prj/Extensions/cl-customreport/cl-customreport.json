@@ -1,0 +1,147 @@
+{
+  "name": "cl-customreport",
+  "Properties": [],
+  "qopsExtensionType": "QlikSense",
+  "references": [
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\cl-customreport.js",
+      "externalPath": "/extensions/cl-customreport/cl-customreport.js",
+      "logicalPath": "/extensions/cl-customreport/cl-customreport.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\cl-customreport.qext",
+      "externalPath": "/extensions/cl-customreport/cl-customreport.qext",
+      "logicalPath": "/extensions/cl-customreport/cl-customreport.qext"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\customreport.png",
+      "externalPath": "/extensions/cl-customreport/customreport.png",
+      "logicalPath": "/extensions/cl-customreport/customreport.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\initialproperties.js",
+      "externalPath": "/extensions/cl-customreport/initialproperties.js",
+      "logicalPath": "/extensions/cl-customreport/initialproperties.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\css\\perfect-scrollbar.min.css",
+      "externalPath": "/extensions/cl-customreport/lib/css/perfect-scrollbar.min.css",
+      "logicalPath": "/extensions/cl-customreport/lib/css/perfect-scrollbar.min.css"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\css\\style.css",
+      "externalPath": "/extensions/cl-customreport/lib/css/style.css",
+      "logicalPath": "/extensions/cl-customreport/lib/css/style.css"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\external\\lodash\\lodash.js",
+      "externalPath": "/extensions/cl-customreport/lib/external/lodash/lodash.js",
+      "logicalPath": "/extensions/cl-customreport/lib/external/lodash/lodash.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\external\\Sortable\\Sortable.js",
+      "externalPath": "/extensions/cl-customreport/lib/external/Sortable/Sortable.js",
+      "logicalPath": "/extensions/cl-customreport/lib/external/Sortable/Sortable.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\clTouch.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/clTouch.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/clTouch.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\components\\pp-cl-about\\pp-cl-about.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/components/pp-cl-about/pp-cl-about.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/components/pp-cl-about/pp-cl-about.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\components\\pp-cl-update-button\\pp-cl-update-button.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/components/pp-cl-update-button/pp-cl-update-button.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/components/pp-cl-update-button/pp-cl-update-button.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\directives\\onLastRepeatDirective.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/directives/onLastRepeatDirective.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/directives/onLastRepeatDirective.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\extensionUtils.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/extensionUtils.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/extensionUtils.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\perfect-scrollbar.jquery.min.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/perfect-scrollbar.jquery.min.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\js\\perfect-scrollbar.min.js",
+      "externalPath": "/extensions/cl-customreport/lib/js/perfect-scrollbar.min.js",
+      "logicalPath": "/extensions/cl-customreport/lib/js/perfect-scrollbar.min.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\lib\\partials\\customreport.ng.html",
+      "externalPath": "/extensions/cl-customreport/lib/partials/customreport.ng.html",
+      "logicalPath": "/extensions/cl-customreport/lib/partials/customreport.ng.html"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\properties.js",
+      "externalPath": "/extensions/cl-customreport/properties.js",
+      "logicalPath": "/extensions/cl-customreport/properties.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\ColorOrNoColor.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/ColorOrNoColor.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/ColorOrNoColor.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\CreateMasterTable.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/CreateMasterTable.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/CreateMasterTable.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\CreateMasterTable2.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/CreateMasterTable2.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/CreateMasterTable2.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\CustomReport.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/CustomReport.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/CustomReport.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\CustomReportSmaller.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/CustomReportSmaller.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/CustomReportSmaller.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\DragAndDropToSort.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/DragAndDropToSort.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/DragAndDropToSort.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\Minimized.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/Minimized.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/Minimized.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\RightClickMenu.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/RightClickMenu.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/RightClickMenu.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\StandardTableExport.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/StandardTableExport.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/StandardTableExport.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\screenshots\\UseTags.png",
+      "externalPath": "/extensions/cl-customreport/screenshots/UseTags.png",
+      "logicalPath": "/extensions/cl-customreport/screenshots/UseTags.png"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\cl-customreport\\wbfolder.wbl",
+      "externalPath": "/extensions/cl-customreport/wbfolder.wbl",
+      "logicalPath": "/extensions/cl-customreport/wbfolder.wbl"
+    }
+  ]
+}

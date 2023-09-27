@@ -1,0 +1,38 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "7e83a7c4-b756-42e6-8d9c-f19fa3bed662",
+    "Title": "Sheet with extension"
+  },
+  "SheetProperties": {
+    "Id": "7e83a7c4-b756-42e6-8d9c-f19fa3bed662",
+    "Properties": {
+      "columns": 24,
+      "customRowBase": 12,
+      "gridMode": "edit",
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      },
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "7e83a7c4-b756-42e6-8d9c-f19fa3bed662",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Sheet with extension"
+      },
+      "rank": 3,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      }
+    }
+  },
+  "Widgets": []
+}
